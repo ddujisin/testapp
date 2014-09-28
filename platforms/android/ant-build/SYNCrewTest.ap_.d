@@ -57,6 +57,7 @@
 /Users/daniel/Apps/testapp/platforms/android/assets/www/img/SYNCrew small logo.png \
 /Users/daniel/Apps/testapp/platforms/android/assets/www/img/Toby_Flenderson.jpg \
 /Users/daniel/Apps/testapp/platforms/android/assets/www/img/unknown.jpg \
+/Users/daniel/Apps/testapp/platforms/android/assets/www/js/HomeView.js \
 /Users/daniel/Apps/testapp/platforms/android/assets/www/js/main.js \
 /Users/daniel/Apps/testapp/platforms/android/assets/www/js/storage \
 /Users/daniel/Apps/testapp/platforms/android/assets/www/js/storage/ls-store.js \

@@ -9,3 +9,105 @@ You could find it at the following address https://developer.apple.com/icloud/do
 
 2014-09-27 13:57:12.097 SYNCrew Test[23725:841200] Resetting plugins due to page load.
 2014-09-27 13:57:12.237 SYNCrew Test[23725:841200] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/B3810B15-1F59-402A-90BF-40A5089D7FBA/SYNCrew%20Test.app/www/index.html
+2014-09-27 14:53:05.617 SYNCrew Test[24186:1007903] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/1C55FC23-B39F-4B70-A8D0-97082AE3A6E7/Library/Cookies/Cookies.binarycookies
+2014-09-27 14:53:05.703 SYNCrew Test[24186:1007903] Multi-tasking -> Device: YES, App: YES
+2014-09-27 14:53:05.716 SYNCrew Test[24186:1007903] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 14:53:06.091 SYNCrew Test[24186:1007903] Resetting plugins due to page load.
+2014-09-27 14:53:07.615 SYNCrew Test[24186:1007903] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/A1A7A7A6-4EA5-46B9-9A4F-ACC118779C5A/SYNCrew%20Test.app/www/index.html
+2014-09-27 14:53:15.655 SYNCrew Test[24186:1007903] CDVWebViewDelegate: Navigation started when state=1
+2014-09-27 14:53:15.655 SYNCrew Test[24186:1007903] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-27 17:54:07.465 SYNCrew Test[24684:1100820] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/CC2797A9-6178-415E-AA31-A552B5923428/Library/Cookies/Cookies.binarycookies
+2014-09-27 17:54:07.554 SYNCrew Test[24684:1100820] Multi-tasking -> Device: YES, App: YES
+2014-09-27 17:54:07.594 SYNCrew Test[24684:1100820] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 17:54:07.769 SYNCrew Test[24684:1100820] Resetting plugins due to page load.
+2014-09-27 17:54:07.830 SYNCrew Test[24684:1100820] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/E1676E4F-377B-471E-A38A-50DE4E48F548/SYNCrew%20Test.app/www/index.html
+2014-09-27 17:56:50.836 SYNCrew Test[24854:1112855] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/471572F9-533A-464C-9747-730A73EA177F/Library/Cookies/Cookies.binarycookies
+2014-09-27 17:56:50.903 SYNCrew Test[24854:1112855] Multi-tasking -> Device: YES, App: YES
+2014-09-27 17:56:50.912 SYNCrew Test[24854:1112855] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 17:56:51.105 SYNCrew Test[24854:1112855] Resetting plugins due to page load.
+2014-09-27 17:56:51.173 SYNCrew Test[24854:1112926] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 17:56:51.280 SYNCrew Test[24854:1112855] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/0B724297-1804-488E-BD9D-88EA911F85EE/SYNCrew%20Test.app/www/index.html
+2014-09-27 17:56:51.293 SYNCrew Test[24854:1112926] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411865811287'
+2014-09-27 18:00:38.021 SYNCrew Test[25154:1126299] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/F76DD9DE-BB22-4660-A178-F073164EB49F/Library/Cookies/Cookies.binarycookies
+2014-09-27 18:00:38.104 SYNCrew Test[25154:1126299] Multi-tasking -> Device: YES, App: YES
+2014-09-27 18:00:38.112 SYNCrew Test[25154:1126299] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 18:00:38.257 SYNCrew Test[25154:1126299] Resetting plugins due to page load.
+2014-09-27 18:00:38.292 SYNCrew Test[25154:1126340] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 18:00:38.313 SYNCrew Test[25154:1126340] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411866038312'
+2014-09-27 18:00:38.375 SYNCrew Test[25154:1126299] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/CF5D8E8D-A69B-488C-B432-E4C518DD73BD/SYNCrew%20Test.app/www/index.html
+2014-09-27 18:14:14.913 SYNCrew Test[25758:1168721] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/C9A3459B-DC74-4D52-BB16-9C03241898F7/Library/Cookies/Cookies.binarycookies
+2014-09-27 18:14:16.387 SYNCrew Test[25758:1168721] Multi-tasking -> Device: YES, App: YES
+2014-09-27 18:14:16.398 SYNCrew Test[25758:1168721] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 18:14:16.598 SYNCrew Test[25758:1168721] Resetting plugins due to page load.
+2014-09-27 18:14:16.635 SYNCrew Test[25758:1168837] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 18:14:16.656 SYNCrew Test[25758:1168837] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411866856655'
+2014-09-27 18:14:16.704 SYNCrew Test[25758:1168721] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/66413386-F69B-476F-96A4-0DA724E7EAAC/SYNCrew%20Test.app/www/index.html
+2014-09-27 18:21:44.043 SYNCrew Test[25950:1203039] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/60708F14-4BBE-4F5C-AC15-866BEAA6A309/Library/Cookies/Cookies.binarycookies
+2014-09-27 18:21:44.116 SYNCrew Test[25950:1203039] Multi-tasking -> Device: YES, App: YES
+2014-09-27 18:21:44.124 SYNCrew Test[25950:1203039] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 18:21:44.273 SYNCrew Test[25950:1203039] Resetting plugins due to page load.
+2014-09-27 18:21:44.315 SYNCrew Test[25950:1203141] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 18:21:44.340 SYNCrew Test[25950:1203141] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411867304339'
+2014-09-27 18:21:44.394 SYNCrew Test[25950:1203039] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/BF42E1DA-CF37-422F-9689-E74098770602/SYNCrew%20Test.app/www/index.html
+2014-09-27 18:59:40.989 SYNCrew Test[26196:1231883] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/A2F0EC53-1E2B-45A3-B0A0-0599A63956E8/Library/Cookies/Cookies.binarycookies
+2014-09-27 18:59:41.068 SYNCrew Test[26196:1231883] Multi-tasking -> Device: YES, App: YES
+2014-09-27 18:59:41.076 SYNCrew Test[26196:1231883] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 18:59:41.240 SYNCrew Test[26196:1231883] Resetting plugins due to page load.
+2014-09-27 18:59:41.286 SYNCrew Test[26196:1231968] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 18:59:41.311 SYNCrew Test[26196:1231968] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411869581310'
+2014-09-27 18:59:41.397 SYNCrew Test[26196:1231883] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/B15F04C7-C3A6-44EF-A2C3-E97E7010ABDD/SYNCrew%20Test.app/www/index.html
+2014-09-27 19:10:58.061 SYNCrew Test[26380:1259690] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Data/Application/A6269966-A23B-4DCD-A81C-D072C7A84ED3/Library/Cookies/Cookies.binarycookies
+2014-09-27 19:10:58.170 SYNCrew Test[26380:1259690] Multi-tasking -> Device: YES, App: YES
+2014-09-27 19:10:58.177 SYNCrew Test[26380:1259690] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-27 19:10:58.343 SYNCrew Test[26380:1259690] Resetting plugins due to page load.
+2014-09-27 19:10:58.394 SYNCrew Test[26380:1259739] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2014-09-27 19:10:58.415 SYNCrew Test[26380:1259739] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1411870258414'
+2014-09-27 19:10:58.481 SYNCrew Test[26380:1259690] Finished load of: file:///Users/daniel/Library/Developer/CoreSimulator/Devices/16F700CD-8760-426F-BCB2-D17592775B5B/data/Containers/Bundle/Application/B98EA38D-704B-49D9-8878-C744746820D7/SYNCrew%20Test.app/www/index.html
